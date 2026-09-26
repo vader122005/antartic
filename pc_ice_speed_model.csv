@@ -1,0 +1,85 @@
+Polar_Class,Ice_Type,Ice_Thickness_cm,RIV_Official_IMO,Operational_Status,Est_Speed_knots,Est_Time_per_100nm_hours
+PC1,Ice free,0,3,Normal operation,13.5,7.4
+PC1,New ice,0-10,3,Normal operation,13.5,7.4
+PC1,Grey ice,10-15,3,Normal operation,13.5,7.4
+PC1,Grey-white ice,15-30,3,Normal operation,13.5,7.4
+PC1,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC1,"Thin first-year ice, 2nd stage",50-70,2,Normal operation,10.5,9.5
+PC1,"Medium first-year ice, 1st stage",70-95,2,Normal operation,10.5,9.5
+PC1,"Medium first-year ice, 2nd stage",95-120,2,Normal operation,10.5,9.5
+PC1,Thick first-year ice,120-200,2,Normal operation,10.5,9.5
+PC1,Second-year ice,200-250,2,Normal operation,10.5,9.5
+PC1,Light multi-year ice,250-300,1,"Normal operation, reduced speed",7.5,13.3
+PC1,Heavy multi-year ice,300+,1,"Normal operation, reduced speed",7.5,13.3
+PC2,Ice free,0,3,Normal operation,13.5,7.4
+PC2,New ice,0-10,3,Normal operation,13.5,7.4
+PC2,Grey ice,10-15,3,Normal operation,13.5,7.4
+PC2,Grey-white ice,15-30,3,Normal operation,13.5,7.4
+PC2,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC2,"Thin first-year ice, 2nd stage",50-70,2,Normal operation,10.5,9.5
+PC2,"Medium first-year ice, 1st stage",70-95,2,Normal operation,10.5,9.5
+PC2,"Medium first-year ice, 2nd stage",95-120,2,Normal operation,10.5,9.5
+PC2,Thick first-year ice,120-200,2,Normal operation,10.5,9.5
+PC2,Second-year ice,200-250,1,"Normal operation, reduced speed",7.5,13.3
+PC2,Light multi-year ice,250-300,1,"Normal operation, reduced speed",7.5,13.3
+PC2,Heavy multi-year ice,300+,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC3,Ice free,0,3,Normal operation,13.5,7.4
+PC3,New ice,0-10,3,Normal operation,13.5,7.4
+PC3,Grey ice,10-15,3,Normal operation,13.5,7.4
+PC3,Grey-white ice,15-30,3,Normal operation,13.5,7.4
+PC3,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC3,"Thin first-year ice, 2nd stage",50-70,2,Normal operation,10.5,9.5
+PC3,"Medium first-year ice, 1st stage",70-95,2,Normal operation,10.5,9.5
+PC3,"Medium first-year ice, 2nd stage",95-120,2,Normal operation,10.5,9.5
+PC3,Thick first-year ice,120-200,2,Normal operation,10.5,9.5
+PC3,Second-year ice,200-250,1,"Normal operation, reduced speed",7.5,13.3
+PC3,Light multi-year ice,250-300,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC3,Heavy multi-year ice,300+,-1,Elevated risk - speed restricted,3.0,33.3
+PC4,Ice free,0,3,Normal operation,13.5,7.4
+PC4,New ice,0-10,3,Normal operation,13.5,7.4
+PC4,Grey ice,10-15,3,Normal operation,13.5,7.4
+PC4,Grey-white ice,15-30,3,Normal operation,13.5,7.4
+PC4,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC4,"Thin first-year ice, 2nd stage",50-70,2,Normal operation,10.5,9.5
+PC4,"Medium first-year ice, 1st stage",70-95,2,Normal operation,10.5,9.5
+PC4,"Medium first-year ice, 2nd stage",95-120,2,Normal operation,10.5,9.5
+PC4,Thick first-year ice,120-200,1,"Normal operation, reduced speed",7.5,13.3
+PC4,Second-year ice,200-250,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC4,Light multi-year ice,250-300,-1,Elevated risk - speed restricted,3.0,33.3
+PC4,Heavy multi-year ice,300+,-2,Special consideration - escort/avoid recommended,1.5,66.7
+PC5,Ice free,0,3,Normal operation,13.5,7.4
+PC5,New ice,0-10,3,Normal operation,13.5,7.4
+PC5,Grey ice,10-15,3,Normal operation,13.5,7.4
+PC5,Grey-white ice,15-30,3,Normal operation,13.5,7.4
+PC5,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC5,"Thin first-year ice, 2nd stage",50-70,2,Normal operation,10.5,9.5
+PC5,"Medium first-year ice, 1st stage",70-95,1,"Normal operation, reduced speed",7.5,13.3
+PC5,"Medium first-year ice, 2nd stage",95-120,1,"Normal operation, reduced speed",7.5,13.3
+PC5,Thick first-year ice,120-200,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC5,Second-year ice,200-250,-1,Elevated risk - speed restricted,3.0,33.3
+PC5,Light multi-year ice,250-300,-2,Special consideration - escort/avoid recommended,1.5,66.7
+PC5,Heavy multi-year ice,300+,-2,Special consideration - escort/avoid recommended,1.5,66.7
+PC6,Ice free,0,3,Normal operation,13.5,7.4
+PC6,New ice,0-10,2,Normal operation,10.5,9.5
+PC6,Grey ice,10-15,2,Normal operation,10.5,9.5
+PC6,Grey-white ice,15-30,2,Normal operation,10.5,9.5
+PC6,"Thin first-year ice, 1st stage",30-50,2,Normal operation,10.5,9.5
+PC6,"Thin first-year ice, 2nd stage",50-70,1,"Normal operation, reduced speed",7.5,13.3
+PC6,"Medium first-year ice, 1st stage",70-95,1,"Normal operation, reduced speed",7.5,13.3
+PC6,"Medium first-year ice, 2nd stage",95-120,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC6,Thick first-year ice,120-200,-1,Elevated risk - speed restricted,3.0,33.3
+PC6,Second-year ice,200-250,-2,Special consideration - escort/avoid recommended,1.5,66.7
+PC6,Light multi-year ice,250-300,-3,Special consideration - not recommended without icebreaker escort,0.5,200.0
+PC6,Heavy multi-year ice,300+,-3,Special consideration - not recommended without icebreaker escort,0.5,200.0
+PC7,Ice free,0,3,Normal operation,13.5,7.4
+PC7,New ice,0-10,2,Normal operation,10.5,9.5
+PC7,Grey ice,10-15,2,Normal operation,10.5,9.5
+PC7,Grey-white ice,15-30,2,Normal operation,10.5,9.5
+PC7,"Thin first-year ice, 1st stage",30-50,1,"Normal operation, reduced speed",7.5,13.3
+PC7,"Thin first-year ice, 2nd stage",50-70,1,"Normal operation, reduced speed",7.5,13.3
+PC7,"Medium first-year ice, 1st stage",70-95,0,Elevated risk - speed restricted (IACS 5kn guidance),5.0,20.0
+PC7,"Medium first-year ice, 2nd stage",95-120,-1,Elevated risk - speed restricted,3.0,33.3
+PC7,Thick first-year ice,120-200,-2,Special consideration - escort/avoid recommended,1.5,66.7
+PC7,Second-year ice,200-250,-3,Special consideration - not recommended without icebreaker escort,0.5,200.0
+PC7,Light multi-year ice,250-300,-3,Special consideration - not recommended without icebreaker escort,0.5,200.0
+PC7,Heavy multi-year ice,300+,-3,Special consideration - not recommended without icebreaker escort,0.5,200.0

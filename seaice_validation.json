@@ -1,0 +1,43 @@
+{
+  "selected_model": "lstm",
+  "window_days": 7,
+  "cell_stride": 3,
+  "train_seasons": [
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "val_seasons": [
+    "2024-25"
+  ],
+  "n_train": 88305,
+  "n_val": 29435,
+  "wind_coverage_fraction": 0.11007109610761598,
+  "sigma_covered_pct_sic": 4.812255859375,
+  "sigma_uncovered_pct_sic": 9.62451171875,
+  "variants": {
+    "cnn": {
+      "n": 29435,
+      "rmse_residual": 4.8508219718933105,
+      "mae_residual": 2.7899928092956543,
+      "bias_residual": 0.024469226598739624,
+      "correlation": 0.19814098586876544,
+      "rmse_physics_only": 4.945309638977051,
+      "skill_vs_physics_pct": 1.910652193323232
+    },
+    "lstm": {
+      "n": 29435,
+      "rmse_residual": 4.812255859375,
+      "mae_residual": 2.6945738792419434,
+      "bias_residual": 0.058336030691862106,
+      "correlation": 0.23483167853257858,
+      "rmse_physics_only": 4.945309638977051,
+      "skill_vs_physics_pct": 2.6905045248000543
+    }
+  },
+  "notes": [
+    "Trained only on cells inside the ERA5 wind domain (21.5% of valid SIC cells); elsewhere wind would be edge-clamped.",
+    "Split is by season, not random, to avoid leakage from near-identical neighbouring days.",
+    "ERA5 2m air temperature unavailable - physics uses Ross Sea seasonal climatology (Assumption A2)."
+  ]
+}
